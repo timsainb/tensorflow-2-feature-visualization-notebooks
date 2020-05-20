@@ -17,6 +17,8 @@ These are a series of self-contained notebook that show you how to visualize cla
 #### Feature visualization
 ![feature_visualization](readme_imgs/features_all_rotate.jpg)
 
+![feature_visualization](readme_imgs/all_filter_activations.jpg)
+
 #### Receptive field visualization
 ![rf_viz](readme_imgs/all_receptive_fields_flipped.jpg)
 

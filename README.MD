@@ -2,7 +2,13 @@
 
 These are a series of self-contained notebook that show you how to visualize classes, features, and receptive fields, and a few other things in a neural network in tensorflow. I also wrote a [short set of blog posts about this code](http://timsainburg.com). 
 
-### Here are a few things I implemented
+### Notebooks
+- Visualizing classes [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/timsainb/tensorflow-2-feature-visualization-notebooks/blob/master/0.0-Visualizing-classes.ipynb)
+- Visualizing features [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/timsainb/tensorflow-2-feature-visualization-notebooks/blob/master/0.1-Visualize-receptive-fields-and-features.ipynb)
+- Reconstructing images from layer activations [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/timsainb/tensorflow-2-feature-visualization-notebooks/blob/master/0.2-Reconstructing-images-from-layer-activation.ipynb)
+- Visualizing deepdream style transfer [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/timsainb/tensorflow-2-feature-visualization-notebooks/blob/master/0.3-Visualize-deepdream-style-transfer.ipynb)
+
+### Here are a few things I implemented:
 
 
 #### Class visualization

@@ -28,6 +28,8 @@ These are a series of self-contained notebook that show you how to visualize cla
 #### Image reconstruction from filter activation
 ![recon](readme_imgs/reconstructions-with-tricks.png)
 
-#### Style transfer 
+#### Style transfer  (starry night)
+
+![starry_night](readme_imgs/starry_night.png)
 
 ![style_transfer](readme_imgs/starry_night-style-transfer.png)

@@ -15,7 +15,7 @@ These are a series of self-contained notebook that show you how to visualize cla
 ![class_visualization](readme_imgs/VGG_classes.png)
 
 #### Feature visualization
-![feature_visualization](readme_imgs/VGG_classes.png)
+![feature_visualization](readme_imgs/features_all_rotate.jpg)
 
 #### Receptive field visualization
 ![rf_viz](readme_imgs/all_receptive_fields_flipped.jpg)
